@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\桌面\RDAS\JPush\cn.jpush.api\cn.jpush.api\bin\Debug\cn.jpush.api.dll
+C:\Documents and Settings\Administrator\桌面\RDAS\JPush\cn.jpush.api\cn.jpush.api\bin\Debug\cn.jpush.api.pdb
+C:\Documents and Settings\Administrator\桌面\RDAS\JPush\cn.jpush.api\cn.jpush.api\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\RDAS\JPush\cn.jpush.api\cn.jpush.api\obj\Debug\cn.jpush.api.dll
+C:\Documents and Settings\Administrator\桌面\RDAS\JPush\cn.jpush.api\cn.jpush.api\obj\Debug\cn.jpush.api.pdb

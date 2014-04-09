@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\桌面\RDAS\JPush\cn.jpush.api\cn.jpush.api\bin\Release\cn.jpush.api.dll
+C:\Documents and Settings\Administrator\桌面\RDAS\JPush\cn.jpush.api\cn.jpush.api\bin\Release\cn.jpush.api.pdb
+C:\Documents and Settings\Administrator\桌面\RDAS\JPush\cn.jpush.api\cn.jpush.api\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\RDAS\JPush\cn.jpush.api\cn.jpush.api\obj\Release\cn.jpush.api.dll
+C:\Documents and Settings\Administrator\桌面\RDAS\JPush\cn.jpush.api\cn.jpush.api\obj\Release\cn.jpush.api.pdb
+C:\Documents and Settings\Administrator\桌面\cn.jpush.api\cn.jpush.api\bin\Release\cn.jpush.api.dll
+C:\Documents and Settings\Administrator\桌面\cn.jpush.api\cn.jpush.api\bin\Release\cn.jpush.api.pdb
+C:\Documents and Settings\Administrator\桌面\cn.jpush.api\cn.jpush.api\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\cn.jpush.api\cn.jpush.api\obj\Release\cn.jpush.api.dll
+C:\Documents and Settings\Administrator\桌面\cn.jpush.api\cn.jpush.api\obj\Release\cn.jpush.api.pdb
